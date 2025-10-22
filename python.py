@@ -1,4 +1,4 @@
-from data_structures.treesusinginkedlists import BinaryTree
+from data_structures.binarytrees import BinaryTree
 
 tree = BinaryTree()
 tree.add_nodes(1, None, None)
